@@ -1,0 +1,14 @@
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\bin\Debug\Admin.exe
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\bin\Debug\Admin.pdb
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.AdminPage.resources
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.Booking_ManagerPage.resources
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.AdminLogin.resources
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.Properties.Resources.resources
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.csproj.GenerateResource.Cache
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.exe
+c:\users\yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Users\Yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Yoha\documents\visual studio 2010\Projects\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\Yoha\Documents\Visual Studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.AcceptedReport.resources
+C:\Users\Yoha\Documents\Visual Studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.CancledReport.resources
+C:\Users\Yoha\documents\visual studio 2010\Projects\Admin\Admin\obj\x86\Debug\Admin.CustomerReport.resources
